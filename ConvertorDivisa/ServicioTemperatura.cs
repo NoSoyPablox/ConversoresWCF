@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConvertorDivisa
+namespace Conversores
 {
     public class ServicioTemperatura : IServicioTemperatura
     {
